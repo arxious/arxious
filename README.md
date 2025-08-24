@@ -1,9 +1,24 @@
-Hi, I like to code and make things
+# Hi, I'm arxious 👋
 
-Some information about me: 
-I'm studying Computer Science at A Level in the UK.
-I aspire to go into Machine Learning or Data Science related field;
-I like maths and problem solving, and I have experience in Python and Lua.
+🎓 A-Level Computer Science Student | 💻 Aspiring Data Scientist
 
-If you want to contact me for any reason at all:
-Discord --> arxious0
+---
+
+### 🚀 About Me
+- 🌱 Currently learning **Python**, **Algorithms**, and **App Development**  
+- 🔭 Exploring **open-source contributions** and **projects to grow my skills**  
+- 📚 Passionate about **problem-solving** and **clean code**  
+
+---
+
+### 🛠️ Tech & Tools
+- Languages: `Python` | `Java` | `HTML/CSS`  
+- Tools: `Git` | `GitHub` | `VS Code`  
+
+---
+
+### 📫 Connect With Me  
+- ✉️ [Email Me](mailto:armanjadoon7@gmail.com)  
+
+---
+⭐️ From [arxious](https://github.com/arxious)
