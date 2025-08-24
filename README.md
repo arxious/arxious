@@ -1,23 +1,24 @@
-# Hi, I'm arxious 👋
+## Hi, I'm arxious 👋
 
-🎓 A-Level Computer Science Student | 💻 Aspiring Data Scientist
+🎓 A-Level Computer Science Student | 📊 Aspiring Data Scientist / ML Engineer  
 
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **Python**, **Algorithms**, and **App Development**  
-- 🔭 Exploring **open-source contributions** and **projects to grow my skills**  
-- 📚 Passionate about **problem-solving** and **clean code**  
+- 🌱 Currently learning **Python**, **Pandas**, and **Machine Learning basics**  
+- 🔭 Building projects to explore **Data Science & AI**  
+- 📚 Interested in **mathematics, algorithms, and real-world applications of ML**  
 
 ---
 
 ### 🛠️ Tech & Tools
-- Languages: `Python` | `Java` | `HTML/CSS`  
-- Tools: `Git` | `GitHub` | `VS Code`  
+- Languages: `Python` | `SQL` | `Lua/Luau`  
+- Libraries: `NumPy` | `Pandas` | `Matplotlib`  
+- Tools: `Git` | `GitHub` | `Jupyter`  
 
 ---
 
-### 📫 Connect With Me  
+### 📫 Connect / Contact
 - ✉️ [Email Me](mailto:armanjadoon7@gmail.com)  
 
 ---
